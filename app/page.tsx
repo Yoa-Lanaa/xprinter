@@ -1,5 +1,6 @@
 "use client";
 
+import "arrive";
 import React, { useState } from "react";
 
 const PrintPriceTag: React.FC = () => {
